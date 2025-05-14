@@ -1,0 +1,17 @@
+    #btn {
+      background-color: green;
+      color: white;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+    }
+
+    #btn:hover {
+      background-color: lightgreen; /* muda a cor no hover */
+    }
+
+    #curiosidade {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f0f0f0;
+    }
